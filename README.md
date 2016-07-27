@@ -4,10 +4,10 @@ just testing
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Ollie Hello world! Hi guys! </title>
+  <title> hello-world </title>
 </head>
 <body>
-  <h1>Glad to see you!</h1>
+  <h2>Hello world! Hi guys! Glad to see you!</h2>
   <p> And here is some cat video ^^</p>
   <video width="320" height="240" controls>
     <source src="https://www.youtube.com/watch?v=30QeAoyHJJg">
